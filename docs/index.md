@@ -11,7 +11,7 @@ Published: 2026-05-30.
 
 Originally published at [Code Project](https://web.archive.org/web/20250820155905/https://www.codeproject.com/Articles/5374743/Coding-Interview-with-Fibonacci-Numbers-Down-the-R), 2023-12-27. 
 
-[[Source Code](https://github.com/sergeykorop/fib_interview/)]
+\[[Source Code](https://github.com/sergeykorop/fib_interview/)\]
 
 ## Introduction
 
@@ -40,7 +40,7 @@ math used in this article are in no way something new so I would never
 claim for authorship. Finally, you will surely notice that I've
 written much more text than code. _Mea culpa._ I'm a fond of
 these words written by E. W. Dijkstra about 50 years ago
-[[1](#ref.1), p. 39]:
+\[[1](#ref.1), p. 39\]:
 
 > ... it is hard to claim that you know what you are doing unless you
   can present your act as a deliberate choice out of a possible set of
@@ -139,7 +139,7 @@ input/output operations. We can't, therefore, easily use these
 calculations for some other purpose or modify them without
 understanding the output part and vice versa.
 
-> **Note:**
+> **Note:**  
 Talking about &ldquo;problems&rdquo; with reusability and maintainability of
 this simple peace of code is, surely, exaggerated. However, it could
 be very important to show that you are aware of these concepts and
@@ -1174,7 +1174,7 @@ progress. Hope you learned something useful to you as well.
 
 ## References
 
-<span id="ref.1">[1]</span>
+<span id="ref.1">\[1\]</span>
 Edsger W. Dijkstra. Notes on structured programming. In _Structured Programming_, pages 1-82.
 Academic Press Ltd., London and New York, 1972.
 (Available [online](https://dl.acm.org/doi/10.5555/1243380.1243381).)
