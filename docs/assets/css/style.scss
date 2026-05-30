@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Quotations should have the same attributes as ordinary text */
+.markdown-body blockquote {
+  color: inherit;
+  font-style: normal;
+}
