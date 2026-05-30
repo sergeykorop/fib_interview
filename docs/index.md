@@ -1,9 +1,10 @@
-<!-- -*- coding: utf-8 -*- -->
+---
+title: "Coding Interview with Fibonacci Numbers: Down the Rabbit Hole"
+description: "Imaginary coding interview using Fibonacci numbers as single showcase for a surprising variety of programmers' skills."
+---
+# {{ page.title }}
 
-# Coding Interview with Fibonacci Numbers: Down the Rabbit Hole
-
-Imaginary coding interview using Fibonacci numbers as single showcase
-for a surprising variety of programmers' skills.
+{{ page.description }}
 
 Published: 2026-05-30.
 
@@ -1179,3 +1180,10 @@ Academic Press Ltd., London and New York, 1972.
 
 ## History
 * 27th December, 2023: Initial version
+
+<!-- Local Variables: -->
+<!-- coding: utf-8 -->
+<!-- mode: markdown -->
+<!-- fill-column: 80 -->
+<!-- eval: (auto-fill-mode 1) -->
+<!-- End: -->
