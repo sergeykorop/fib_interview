@@ -1,6 +1,7 @@
 ---
 title: "Coding Interview with Fibonacci Numbers: Down the Rabbit Hole"
 description: "Imaginary coding interview using Fibonacci numbers as single showcase for a surprising variety of programmers' skills."
+image: "/thumbnail.png"
 ---
 # {{ page.title }}
 
