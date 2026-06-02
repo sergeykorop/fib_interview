@@ -1105,7 +1105,7 @@ allows us to split them on a number of independent &ldquo;streams&rdquo;. These
 streams, in turn, are very useful when you need to parallelize or
 distribute your calculations. (More about this interesting problem
 could be read
-[here](https://web.archive.org/web/20250820155905/https://www.codeproject.com/Articles/1239297/System-Random-and-Infinite-Monkey-Theorem).)
+[here](/monkey_typewriter/).)
 
 > **Interviewer:**  
 That's enough for today. Thank you for the opportunity to look at the
