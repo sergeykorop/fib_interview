@@ -11,7 +11,7 @@ Published: 2026-05-30.
 
 Originally published at [Code Project](https://web.archive.org/web/20250820155905/https://www.codeproject.com/Articles/5374743/Coding-Interview-with-Fibonacci-Numbers-Down-the-R), 2023-12-27. 
 
-\[[Source Code](https://github.com/sergeykorop/fib_interview/)\]
+\[[Source Code](https://github.com/sergeykorop/fib-interview/)\]
 
 ## Introduction
 
